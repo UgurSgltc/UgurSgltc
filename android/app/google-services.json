@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24646137409",
+    "firebase_url": "https://faktodeks-eeb4b.firebaseio.com",
+    "project_id": "faktodeks-eeb4b",
+    "storage_bucket": "faktodeks-eeb4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24646137409:android:1f00f95d0f841f3b0b78c0",
+        "android_client_info": {
+          "package_name": "com.faktodeks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24646137409-i05kismsgmqae966ncjdjh3c45jlh3d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmu35xUSjNM-VFwnvX-A1QsgbM2U3vuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24646137409-i05kismsgmqae966ncjdjh3c45jlh3d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
